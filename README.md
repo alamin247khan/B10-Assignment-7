@@ -1,6 +1,6 @@
 # 🚀 Peddy | Pet Adoption Platform
 
-[![Deploy to Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://peddy-pet-adoption.netlify.app/)
+[![Deploy to Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://b10-assignment-7.vercel.app/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -10,11 +10,11 @@
 This repository contains the source code for "Peddy," a responsive pet adoption platform built with React and Vite. This project was developed as part of the Programming Hero Web Development Course, showcasing skills in modern front-end technologies.
 
 ## 🌐 Live Preview
-🔗 **[https://peddy-pet-adoption.netlify.app/](https://peddy-pet-adoption.netlify.app/)**
+🔗 **[https://b10-assignment-7.vercel.app/](https://b10-assignment-7.vercel.app/)**
 
 ## 🖼️ Screenshot
 A preview of the deployed project:
-*(Screenshot to be added)*
+![Project Screenshot](./src/assets/site-Screenshot.png)
 
 ## 📌 About This Project
 Peddy is a single-page web application designed to help users find and adopt pets. The platform features a clean, user-friendly interface that allows users to browse available pets, view details, and simulate an adoption process. The project is fully responsive and designed with a mobile-first approach to ensure a seamless experience on all devices.
@@ -32,12 +32,11 @@ Peddy is a single-page web application designed to help users find and adopt pet
 | **Vite** | For a fast and modern development environment and build tool. |
 | **Tailwind CSS** | For utility-first styling and rapid UI development. |
 | **JavaScript** | For application logic and interactivity. |
-| **Netlify** | For continuous deployment and hosting. |
+| **Vercel** | For continuous deployment and hosting. |
 
 ## 📂 Project Structure
 Here is an overview of the file structure:
-```
-B10-Assignment-7/
+```B10-Assignment-7/
 ├── public/
 │   └── ... (static assets)
 ├── src/
@@ -79,3 +78,4 @@ To explore this project on your local machine, follow these steps:
 
 ## 🙏 Acknowledgements
 A special thank you to the entire [Programming Hero](https://web.programming-hero.com/) team for their guidance and support throughout this learning journey.
+
